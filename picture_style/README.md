@@ -5,5 +5,5 @@ I use the following picture as content:<br />
 The following picture as style:<br />
 ![alt text](https://github.com/shiluyuan/Deep_Learning/blob/master/picture_style/image/style_picture.jpg)<br />
 And here is the result:<br />
-![alt text](https://github.com/shiluyuan/Deep_Learning/blob/master/picture_style/image/content_picture.jpg)<br />
+![alt text](https://github.com/shiluyuan/Deep_Learning/blob/master/picture_style/image/combine_picture.jpg)<br />
 
