@@ -11,3 +11,4 @@ G surprise<br />
 
 However, I face two problems, one is overfitting. The trainning accuracy is 90% and test accuarcy is only 57%. <br />
 The second problem is when I reload the trained model, each time I run prediction, the result seems different. <br />
+Maybe someone can see my code and tell me what can I do to fix the problems.
