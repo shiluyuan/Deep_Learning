@@ -1,10 +1,13 @@
 
-I use face picture for classification.
-There are seven lables.
-A anger
-B contempt
-C fear
-D happiness
-E neutral
-F sadness
-G surprise
+I use face picture for classification.<br />
+There are seven lables. <br />
+A anger<br />
+B contempt<br />
+C fear<br />
+D happiness<br />
+E neutral<br />
+F sadness<br />
+G surprise<br />
+
+However, I face two problems, one is overfitting. The trainning accuracy is 90% and test accuarcy is only 57%. <br />
+The second problem is when I reload the trained model, each time I run prediction, the result seems different. <br />
